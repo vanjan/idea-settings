@@ -1,4 +1,7 @@
 <code_scheme name="Default" version="173">
+  <ClojureCodeStyleSettings>{
+  :blottsbooks.core/say-welcome 2
+}</ClojureCodeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
