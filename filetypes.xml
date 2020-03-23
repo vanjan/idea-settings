@@ -4,7 +4,6 @@
       <mapping pattern="Dockerfile-java" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping pattern="TutorialToken.sol" type="Solidity file" />
     </extensionMap>
   </component>
